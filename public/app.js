@@ -1,4 +1,4 @@
-const API = 'http://localhost:5000/api';
+const API = 'https://expense-tracker-api-r0ld.onrender.com/api';
 
 // ===== HELPER FUNCTIONS =====
 const getToken = () => localStorage.getItem('token');
